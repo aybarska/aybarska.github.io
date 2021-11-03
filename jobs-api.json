@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "IT support specialist"
+  },
+  {
+    "id": 2,
+    "title": "IOS dev"
+  },
+  {
+    "id": 3,
+    "title": "Web app dev"
+  },
+  {
+    "id": 4,
+    "title": "CTO"
+  },
+  {
+    "id": 5,
+    "title": "Manager"
+  }
+]
